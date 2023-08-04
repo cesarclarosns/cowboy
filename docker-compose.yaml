@@ -1,0 +1,4 @@
+version: '3.8'
+services:
+  cowboy-db:
+    container_name: cowboy-db
